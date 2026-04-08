@@ -1,4 +1,4 @@
-this file is just created to learn the conceot of file handling 
+this file is just created to learn the concept of file handling 
 
 
 
