@@ -1,0 +1,4 @@
+This repository shows all the topics of c programming that 
+i covered while learning it from scratch. 
+with some files of basics and then the assignment to implement it practically.
+hence developed good understanding of  the concepts
