@@ -21,7 +21,7 @@ int main() {
     int (*operation)(int, int);
     int choice, a, b;
 
-    printf("Enter two numbers: ");
+    printf("Enter two numbers:");
     scanf("%d %d", &a, &b);
 
     printf("\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n");
