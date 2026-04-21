@@ -7,7 +7,6 @@ int main()
     int n;
     printf("Enter size: ");
     scanf("%d", &n);
-
     int *arr = (int*) malloc(n * sizeof(int));
 
     for (int i = 0; i < n; i++)
